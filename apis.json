@@ -1,0 +1,53 @@
+{
+    "name": "Magnolia",
+    "description": "<p>Magnolia is a powerful digital business platform that empowers Marketing and Development to create world-class digital customer experiences. Magnolia CMS allows organizations to orchestrate online services, sales and marketing content across all digital channels, maximizing the impact of every touchpoint. Magnolia CMS delivers smartphone simplicity, on an enterprise scale. The mobile-inspired user interface works through customizable, task-focused Apps, a notification stream called the Pulse, and a system of Favorites for quickly accessing the workspace.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Magnolia-CMS-logo.png",
+    "tags": [
+        "api provider",
+        "cms",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/magnolia\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Magnolia",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Magnolia-CMS-logo.png",
+            "humanURL": "https:\/\/www.magnolia-cms.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/magnolia-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/magnolia-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/planet.magnolia-cms.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/planet.magnolia-cms.com\/planetFeeds\/MagnoliaBlogs\/rss"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/magnolia_cms"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.magnolia-cms.com\/"
+        }
+    ]
+}
